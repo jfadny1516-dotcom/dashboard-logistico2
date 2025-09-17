@@ -7,3 +7,4 @@ psycopg2-binary
 openpyxl
 folium
 requests
+gunicorn
