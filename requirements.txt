@@ -1,6 +1,9 @@
-dash
+streamlit
 pandas
 plotly
-SQLAlchemy
+scikit-learn
+sqlalchemy
 psycopg2-binary
-gunicorn
+openpyxl
+folium
+requests
